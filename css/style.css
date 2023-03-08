@@ -1,0 +1,54 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+}
+
+.box-center {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.quantri {
+    color: rgb(153, 0, 0);
+}
+
+ul {
+    padding: 0;
+    display: flex;
+}
+
+.row {
+    float: left;
+    width: 100%;
+}
+
+.mb {
+    margin-bottom: 20px;
+}
+
+.mr {
+    margin-right: 2%;
+}
+
+.demo {
+    background-color: antiquewhite;
+    min-height: 100px;
+}
+
+.header {
+    background-color: aquamarine;
+    border: 1px #090 solid;
+    font-size: 10px;
+    color: blue;
+}
+
+.header h1 {
+    margin: 10px 20px;
+}
+
+.menu {
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+}
